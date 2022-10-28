@@ -15,8 +15,9 @@
 - git add 'fpath'
 - git status
 - git config
+  - git config 本地仓库配置在.git/config下
   - git config --list, 查看当前的git配置信息
-  - git config --global user.name
+  - git config --global user.name, 查看或设置仓库用户名
   - git config --global user.email
 - git commit -m 'msg'
 - git --help <command>, 打开<command>的帮助页面
