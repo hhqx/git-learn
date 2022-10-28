@@ -16,6 +16,8 @@
 - git status
 - git config
   - git config --list, 查看当前的git配置信息
+  - git config --global user.name
+  - git config --global user.email
 - git commit -m 'msg'
 - git --help <command>, 打开<command>的帮助页面
 
@@ -26,6 +28,7 @@
 - git remote show <name>, 显示远程仓库<name>
   - git remote -v show, 显示远程仓库详情
 - git fetch
+  - git fetch, 拉取远程仓库到本地副本(本地仓库不变)
 - git pull
 - git push
 - git remote add origin <server>
