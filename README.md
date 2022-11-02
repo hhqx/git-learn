@@ -66,3 +66,9 @@
 
 
 # pycharm 同步配置
+
+### Pycharm 解决terminal中文乱码问题并且使windows terminal 变成 liunx terminal
+- 解决pycharm中 git bash 乱码, [链接](https://blog.csdn.net/qq_40859560/article/details/105271900)
+
+
+
